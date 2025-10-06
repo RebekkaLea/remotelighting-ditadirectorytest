@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_t5t_rtv_wgc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>All About Moon Landings</title>
+    <shortdesc>Here is some great text about moon landings. Speaking of moons, tonight is a super
+        harvest moon! Should be really cool to see. </shortdesc>
     <conbody>
-        <p></p>
+        <p>Here is some nonsense text just to fill space for this all about moon landings page. And
+            here is some more nonsense text. </p>
+        <p>Oh, and here is another paragraph to add to this not real page. Moon landings are really
+            important.</p>
     </conbody>
 </concept>
