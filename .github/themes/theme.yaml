@@ -228,7 +228,7 @@ style:
 
   # Cover settings
   cover:
-    background-image: alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg
+    background-image: logo.png
     background-repeat: no-repeat
     height: 25.7cm
   cover-title:
