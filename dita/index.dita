@@ -9,5 +9,15 @@
             here is some more nonsense text. </p>
         <p>Oh, and here is another paragraph to add to this not real page. Moon landings are really
             important.</p>
+        <dl id="dl_vbh_tqq_bhc">
+            <dlentry>
+                <dt>Moon</dt>
+                <dd>Big round bright sphere in the sky, mostly visible at night.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Landing</dt>
+                <dd>The thing that happens when the spacecraft reaches the moon.</dd>
+            </dlentry>
+        </dl>
     </conbody>
 </concept>
